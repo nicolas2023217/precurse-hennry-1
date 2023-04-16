@@ -1,2 +1,1 @@
-# precurse-hennry-1
-este es un repositorio nuevo 1
+este proyecto es una prueva 1
